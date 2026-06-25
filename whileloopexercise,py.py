@@ -9,14 +9,6 @@ while True:
     numbers.append(user_input)
     print(user_input)
     
-# numbers = []
-# user_input = input("enter the number:")
-# while user_input not in numbers:
-#     user_input = input("enter the number:")
-#     numbers.append(user_input)
-#     print(f" duplicate number found i.e {user_input}")
-#     break
-
  #2   
 
 n = int(input("Enter a positive integer: "))
